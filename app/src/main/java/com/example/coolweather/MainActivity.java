@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         int a = 10;
         int b = 2;
+        String ss = "hello world";
     }
 
     public void showToast(View view) {
